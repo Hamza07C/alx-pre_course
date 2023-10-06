@@ -1,1 +1,1 @@
-ceating a directory inside a reposetory and push it
+creating a directory inside a reposetory and push it
